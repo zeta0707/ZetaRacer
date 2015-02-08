@@ -1,2 +1,2 @@
-# ZetaSpace
-The workspace for Zeta's cod 
+# ZetaRacer
+DC motor RC CAR control via Rasberry PI
